@@ -88,7 +88,3 @@ The main goal of this project is to practice using **TypeScript** to model user 
 - **Channel Subscription:** Allow users to follow channels and post questions on specific topics.
 - **Real-time Messaging:** Integrate Socket.io for real-time communication between users.
 - **Additional Features:** Such as password recovery, email verification, etc.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
