@@ -79,8 +79,8 @@ The server should be running on `http://localhost:8000`, and the frontend will b
 The main goal of this project is to practice using **TypeScript** to model user relationships and manage user features in a web application. The following features are implemented:
 
 - User registration
-- User login (in progress)
-- User profile management (in progress)
+- User login
+- User profile management
 
 ## Future Enhancements
 
