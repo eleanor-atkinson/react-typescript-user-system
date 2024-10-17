@@ -1,7 +1,7 @@
 
 # User System React App
 
-This project is a simple web application built with a React frontend and an Express server on the backend. The purpose of this project is to practice using TypeScript to model user relationships in a React app by implementing essential user features, including user registration, login, and profile management.
+This ongoing project is a simple web application built with a React frontend and an Express server on the backend. The purpose of this project is to practice using TypeScript to model user relationships in a React app by implementing essential user features, including user registration, login, and profile management.
 
 ## Features
 
@@ -76,11 +76,11 @@ The server should be running on `http://localhost:8000`, and the frontend will b
 
 ## Project Purpose
 
-The main goal of this project is to practice using **TypeScript** to model user relationships and manage user features in a web application. The following features are implemented:
+The main goal of this project is to practice using **TypeScript** to model user relationships and manage user features in a web application. The following features are being implemented:
 
 - User registration
-- User login
-- User profile management
+- User login (in progress)
+- User profile management (in progress)
 
 ## Future Enhancements
 
