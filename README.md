@@ -19,7 +19,7 @@ This project is a simple web application built with a React frontend and an Expr
 - **Backend:**
   - Express (with TypeScript)
   - MongoDB (with Mongoose for database modeling)
-  - Socket.io for real-time features (optional, planned for future expansion)
+  - Socket.io for real-time features ( planned for future expansion)
 
 ## Getting Started
 
@@ -34,8 +34,8 @@ This project is a simple web application built with a React frontend and an Expr
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/user-profiles-app.git
-   cd user-profiles-app
+   git clone https://github.com/your-username/react-typescript-user-system.git
+   cd react-typescript-user-system
    ```
 
 2. Install dependencies for both frontend and backend:
@@ -46,7 +46,7 @@ This project is a simple web application built with a React frontend and an Expr
    npm install
    
    # Install frontend dependencies
-   cd ../frontend
+   cd ../client
    npm install
    ```
 
@@ -61,15 +61,15 @@ This project is a simple web application built with a React frontend and an Expr
 4. Start the backend server:
 
    ```bash
-   cd server
-   npm run start
+   # From the root of the project
+   npx ts-node server/index.ts
    ```
 
 5. Start the React frontend:
 
    ```bash
-   cd ../frontend
-   npm start
+   cd client
+   npm run start
    ```
 
 The server should be running on `http://localhost:8000`, and the frontend will be available on `http://localhost:3000`.
@@ -80,7 +80,7 @@ The main goal of this project is to practice using **TypeScript** to model user 
 
 - User registration
 - User login (in progress)
-- User profile management
+- User profile management (in progress)
 
 ## Future Enhancements
 
